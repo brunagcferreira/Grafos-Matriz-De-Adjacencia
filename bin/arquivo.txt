@@ -1,0 +1,15 @@
+7 7
+A
+B
+C
+D
+E
+F
+G
+AD
+AB
+AC
+DE
+EE
+FB
+BF
