@@ -23,6 +23,7 @@ public class Grafo{
     }
 
     //Métodos
+
     public void inicializarMatriz(){
         try (BufferedReader br = new BufferedReader(new FileReader(caminho))) {
             
